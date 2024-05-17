@@ -80,7 +80,7 @@ Frontend
    ```
 9 Open your web browser and visit http://localhost:3000 to access clone. 
 <p align='center'>
-<img src='Users\91620\OneDrive\Pictures\Screenshots\Screenshot (157).png' >
+<img src='https://drive.google.com/file/d/1B7uF8a_2jjHBbKLQXOS40weP4m7eLDuj/view?usp=drive_link' >
 <br>
 <br>
 <img src='C:\Users\91620\OneDrive\Pictures\Screenshots\Screenshot (158).png' >
