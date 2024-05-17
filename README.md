@@ -83,6 +83,23 @@ Frontend
  
 ![ab](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/0acb3c1f-d08e-4b59-b097-6b34a13b1206)
 
+![Screenshot (158)](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/597a9acd-ba0f-4fd1-88c9-4822bf460cda)
+
+![Screenshot (160)](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/917b2f75-9d68-44bc-9304-68e23fb84637)
+
+![Screenshot (159)](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/37dc4369-fe9b-45d5-8e70-25effcc55aaf)
+
+![Screenshot (161)](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/7a3355d3-7edf-418f-8a40-ca2f92d7d8cf)
+
+![Screenshot (162)](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/fedd5286-4038-4468-9f50-d22fd6286e41)
+
+
+
+
+
+
+
+
 </p>
 (If you liked the project, give it star 😃)
 </p>
