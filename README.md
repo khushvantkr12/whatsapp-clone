@@ -80,7 +80,8 @@ Frontend
    ```
 9 Open your web browser and visit http://localhost:3000 to access clone. 
 <p align='center'>
-<img src="C:\Users\91620\OneDrive\Pictures\Screenshots\ab.png" >
+![ab](https://github.com/khushvantkr12/whatsapp-clone/assets/98275946/0acb3c1f-d08e-4b59-b097-6b34a13b1206)
+
 </p>
 (If you liked the project, give it star 😃)
 </p>
