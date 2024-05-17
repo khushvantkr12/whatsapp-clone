@@ -80,7 +80,7 @@ Frontend
    ```
 9 Open your web browser and visit http://localhost:3000 to access clone. 
 <p align='center'>
-<img src='C:\Users\91620\OneDrive\Pictures\Screenshots\Screenshot (157).png' >
+<img src=Pictures\Screenshots\Screenshot (157).png' >
 <br>
 <br>
 <img src='C:\Users\91620\OneDrive\Pictures\Screenshots\Screenshot (158).png' >
